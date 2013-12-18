@@ -1,6 +1,5 @@
 //JS conversion of code from https://github.com/dries007/Dries007.net
 //used with the permission of the original Author
-<?
 function service(name, port, url, host)
 {
          
