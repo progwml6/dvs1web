@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- HTML Codes by Quackit.com -->
+<title>
+SlimeKnights 1.7.x alpha's</title>
+<meta name="description" content="alpha builds for slimeknights 1.7 mods">
+<style type="text/css">
+body {background-color:ffffff;background-image:url(http://);background-repeat:no-repeat;background-position:top left;background-attachment:fixed;}
+h1{font-family:Cursive;color:000000;}
+p {font-family:Cursive;font-size:14px;font-style:normal;font-weight:normal;color:000000;}
+</style>
+</head>
+<body>
+<h1>Alpha builds:</h1>
+<p><a href="http://dvs1.progwml6.com/files/TConstruct-1.7.2-alpha1.jar">TCon Alpha 1</a></br>
+<a href="http://dvs1.progwml6.com/files/Mantle-1.7.2-alpha1.jar">Mantle Alpha 1</a></br>
+<a href="http://dvs1.progwml6.com/files/TMechworks-1.7.2-alpha1.jar">TMech Alpha 1</a></br>
+</br>
+
+The smeltery is currently not functioning due to a forge bug.</br>
+please change this config entry to read as follows to allow you to craft metal tools w/ wooden patterns</br>
+    B:"Craft metals with Wood Patterns"=true</br>
+</br>
+<h3>NOTE: Mantle(SlimeKnights library mod) is a dependency for ALL of our mods in 1.7</h3></br>
+please report bugs to <a href="https://github.com/SlimeKnights/TinkersConstruct/">our Github</a></br>
+or <a href="http://webchat.esper.net/?nick=&channels=tinkersconstruct">on IRC</a></p>
+</br><h4>DO NOT REPORT BUGS ON THE FORUM FOR  THE ALPHA BUILD</h4>
+</body>
+</html>
+
